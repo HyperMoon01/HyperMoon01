@@ -11,5 +11,5 @@
 * [Gmail](https://mailhide.io/e/Ml0YwVQP)
 
 🤖 My bot Tones
-[Invite](https://bit.ly/3djDTC3)
-[About](https://github.com/HyperCoder11/Tones)
+* [Invite](https://bit.ly/3djDTC3)
+* [About](https://github.com/HyperCoder11/Tones)
