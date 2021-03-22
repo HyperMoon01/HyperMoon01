@@ -13,3 +13,4 @@
 🤖 My bot Tones
 * [Invite](https://bit.ly/3djDTC3)
 * [About](https://github.com/HyperCoder11/Tones)
+<i class="ri-discord-line"></i>
