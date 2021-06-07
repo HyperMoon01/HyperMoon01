@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HyperCoder11</h1>
 <h3 align="center">A passionate Discord Bot developer</h3>
 
-- 🔭 I’m currently working on [Tones](https://github.com/HyperCoder11/Tones)
+- 🔭 I’m currently working on [Calda](https://github.com/HyperCoder11/Tones)
 
 - 🌱 I’m currently learning **Python, C++**
 
