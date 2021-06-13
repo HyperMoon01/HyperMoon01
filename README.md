@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm HyperCoder11</h1>
 <h3 align="center">A passionate Discord Bot developer</h3>
 
-- 🔭 I’m currently working on [Calda](https://github.com/HyperCoder11/Tones)
+- 🔭 I’m currently working on Calda
 
 - 🌱 I’m currently learning **Python, C++**
 
 - 🍟 Join my Discord server **https://discord.gg/JUM9gr9cnK**
 
-- 🤝 I’m looking for help with [Tones Discord bot](https://github.com/HyperCoder11/Tones)
+- 🤝 I’m looking for help with [CalDa Discord bot](https://github.com/HyperCoder11/Tones)
 
-- 📫 How to reach me **typicaldarkgamerz@gmail.com**
+- 📫 How to reach me **caldabot@gmail.com**
 
 - ⚡ Fun fact **I think am funny xD**
 
