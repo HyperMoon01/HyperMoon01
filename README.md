@@ -7,7 +7,7 @@
 
 - 🍟 Join my Discord server **https://discord.gg/JUM9gr9cnK**
 
-- 🤝 I’m looking for help with [CalDa Discord bot](https://github.com/HyperCoder11/Tones)
+- 🤝 I’m looking for help with [CalDa Discord bot](https://github.com/HyperCoder11/CalDa)
 
 - 📫 How to reach me **caldabot@gmail.com**
 
