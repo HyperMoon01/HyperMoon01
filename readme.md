@@ -1,5 +1,5 @@
 [![MasterHead](https://imgur.com/3pMQYBV.png)](https://hypermoon.ga)
-<h1 align="center">Hi 👋, I'm John</h1>
+<h1 align="center">Hi 👋, I'm Juan</h1>
 <h3 align="center">A passionate Discord Developer for CalDa</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
@@ -26,7 +26,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/caldabot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="caldabot" height="30" width="40" /></a>
-<a href="https://instagram.com/hypermoon_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hypermoon_01" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucxjiiubtx2h0im7d5rrbblg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucxjiiubtx2h0im7d5rrbblg" height="30" width="40" /></a>
 <a href="https://discord.gg/XtESympEkT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="XtESympEkT" height="30" width="40" /></a>
 </p>
